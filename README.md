@@ -1,6 +1,6 @@
 # flutter_01
 
-A new Flutter project.
+my first flutter project
 
 ## Getting Started
 
